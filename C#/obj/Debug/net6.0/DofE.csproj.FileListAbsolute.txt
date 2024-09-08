@@ -1,0 +1,23 @@
+C:\Users\Danlo\source\repos\C-Sharp_Code\DofE\bin\Debug\net6.0\DofE.exe
+C:\Users\Danlo\source\repos\C-Sharp_Code\DofE\bin\Debug\net6.0\DofE.deps.json
+C:\Users\Danlo\source\repos\C-Sharp_Code\DofE\bin\Debug\net6.0\DofE.runtimeconfig.json
+C:\Users\Danlo\source\repos\C-Sharp_Code\DofE\bin\Debug\net6.0\DofE.dll
+C:\Users\Danlo\source\repos\C-Sharp_Code\DofE\bin\Debug\net6.0\DofE.pdb
+C:\Users\Danlo\source\repos\C-Sharp_Code\DofE\obj\Debug\net6.0\DofE.csproj.AssemblyReference.cache
+C:\Users\Danlo\source\repos\C-Sharp_Code\DofE\obj\Debug\net6.0\DofE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danlo\source\repos\C-Sharp_Code\DofE\obj\Debug\net6.0\DofE.AssemblyInfoInputs.cache
+C:\Users\Danlo\source\repos\C-Sharp_Code\DofE\obj\Debug\net6.0\DofE.AssemblyInfo.cs
+C:\Users\Danlo\source\repos\C-Sharp_Code\DofE\obj\Debug\net6.0\DofE.csproj.CoreCompileInputs.cache
+C:\Users\Danlo\source\repos\C-Sharp_Code\DofE\obj\Debug\net6.0\DofE.dll
+C:\Users\Danlo\source\repos\C-Sharp_Code\DofE\obj\Debug\net6.0\refint\DofE.dll
+C:\Users\Danlo\source\repos\C-Sharp_Code\DofE\obj\Debug\net6.0\DofE.pdb
+C:\Users\Danlo\source\repos\C-Sharp_Code\DofE\obj\Debug\net6.0\DofE.genruntimeconfig.cache
+C:\Users\Danlo\source\repos\C-Sharp_Code\DofE\obj\Debug\net6.0\ref\DofE.dll
+C:\Users\Danlo\OneDrive\Laptop Backup\Documents\GitHub\UVHS\C#\obj\Debug\net6.0\DofE.csproj.AssemblyReference.cache
+C:\Users\Danlo\OneDrive\Laptop Backup\Documents\GitHub\UVHS\C#\obj\Debug\net6.0\DofE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danlo\OneDrive\Laptop Backup\Documents\GitHub\UVHS\C#\obj\Debug\net6.0\DofE.AssemblyInfoInputs.cache
+C:\Users\Danlo\OneDrive\Laptop Backup\Documents\GitHub\UVHS\C#\obj\Debug\net6.0\DofE.AssemblyInfo.cs
+C:\Users\Danlo\OneDrive\Laptop Backup\Documents\GitHub\UVHS\C#\obj\Debug\net6.0\DofE.csproj.CoreCompileInputs.cache
+C:\Users\Danlo\OneDrive\Laptop Backup\Documents\GitHub\UVHS\C#\obj\Debug\net6.0\DofE.dll
+C:\Users\Danlo\OneDrive\Laptop Backup\Documents\GitHub\UVHS\C#\obj\Debug\net6.0\refint\DofE.dll
+C:\Users\Danlo\OneDrive\Laptop Backup\Documents\GitHub\UVHS\C#\obj\Debug\net6.0\DofE.pdb
